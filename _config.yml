@@ -22,13 +22,13 @@ repository               : "https://levi607-lab.github.io/leven-hennig"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Leven Louis Hennig"
+  pronouns         :  "he/him"  
+  bio              : ""
+  location         : "Hamburg"
+  employer         : "Helmut Schidt Universität"
+  uri              : "https://levi607-lab.github.io/leven-hennig/"
+  email            : "henningl@hsu-hh.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
