@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "DE"
+locale                   : "en-US"
 title                    : "Leven Hennig"
 title_separator          : "-"
 name                     : &name "Leven Hennig"
 description              : &description "Thats me"
 url                      : https://levi607-lab.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://levi607-lab.github.io/leven-hennig/" # the subpath of your site, e.g. "/blog"
-repository               : "https://levi607-lab.github.io"
+baseurl                  : "/leven-hennig" # the subpath of your site, e.g. "/blog"
+repository               : "https://levi607-lab.github.io/leven-hennig"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
