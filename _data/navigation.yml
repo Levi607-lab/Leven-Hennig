@@ -6,7 +6,7 @@
 
 main:
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Fun Projects"
     url: /fun-projects/    
@@ -17,7 +17,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
    
-   
+
   - title: "CV"
     url: /cv/
     
