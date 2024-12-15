@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Maker | Inventor | Student 
+##### Student | Maker | Inventor
 
 Student Assistant at [Helmut Schidt Universität](https://www.hsu-hh.de/ "HSU")
 
