@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 # Leven Hennig
----
+
+----
+
 ##### Student | Maker | Inventor
 Student Assistant at [Helmut Schidt Universität](https://www.hsu-hh.de/ "HSU")
 
