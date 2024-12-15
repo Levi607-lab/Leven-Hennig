@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Maker - Inventor - 
-Student Assistant at Helmut Schidt Universität der Bundeswehr
+Maker | Inventor | Student 
+
+Student Assistant at [Helmut Schidt Universität](https://www.hsu-hh.de/ "HSU")
 
 # About me
 ---
